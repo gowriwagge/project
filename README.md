@@ -1,5 +1,4 @@
-created
-made changes
+
 Email Spam Detection
 
 Overview
