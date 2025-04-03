@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 added conflict
-=======
+
 creating conflict
 making changes
->>>>>>> 33e13df (added)
+
